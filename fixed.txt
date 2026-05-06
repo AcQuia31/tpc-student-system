@@ -1,0 +1,30 @@
+DECLARE PASS MARK AS 50%
+START
+IF MARK >=50%
+THEN
+RESULTS: PASS
+IF MARK <50%
+THEN
+RESULTS: FAIL
+ENDIF//
+
+DECLARE AcQuia ManhiQue as the student
+START
+Set student Score at 50% PASS MARK
+IF AcQuia ManhiQue scores 44%
+THEN
+44% < 55%
+PRINT
+RESULTS: AcQuia ManhiQue FAIL
+
+ELSE
+
+DECLARE AcQuia ManhiQue as student
+START
+SET PASS MARK AT 50%
+IF AcQuia ManhiQue scores 50%
+THEN
+50% >= PASS MARK 50%
+PRINT
+RESULTS: AcQuia ManhiQue PASS
+ENDIF//
